@@ -1,1 +1,15 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.start-50 {
+  left: 40% !important;
+}
+
+.top-50 {
+  top: 36% !important;
+}
+
+h1 {
+  font-size: 5rem;
+}
+body {
+  background-color: rgb(1, 201, 1);
+}
